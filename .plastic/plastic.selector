@@ -1,0 +1,4 @@
+repository "BitClicker new@BitClicker@cloud"
+  path "/"
+    br "/main"
+    co "/main"
