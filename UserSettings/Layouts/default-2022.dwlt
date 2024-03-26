@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 393
+  controlID: 126
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 394
+  controlID: 75
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -170,7 +170,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 395
+  controlID: 51
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -190,8 +190,8 @@ MonoBehaviour:
     y: 0
     width: 269
     height: 556
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -216,8 +216,8 @@ MonoBehaviour:
     y: 0
     width: 689
     height: 556
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -242,8 +242,8 @@ MonoBehaviour:
     y: 0
     width: 495
     height: 556
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -323,8 +323,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 629
+    x: -32000
+    y: -31414
     width: 1452
     height: 362
   m_SerializedDataModeController:
@@ -348,7 +348,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -356,16 +356,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\patri\BitClicker new
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 52640000
-    m_LastClickedID: 25682
-    m_ExpandedIDs: 000000005264000000ca9a3bffffff7f
+    m_SelectedIDs: 82640000
+    m_LastClickedID: 25730
+    m_ExpandedIDs: 000000006e64000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -393,7 +393,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000052640000
+    m_ExpandedIDs: 000000006e640000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -469,8 +469,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 73
+    x: -32000
+    y: -31970
     width: 268
     height: 535
   m_SerializedDataModeController:
@@ -486,9 +486,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0a640000
-      m_LastClickedID: 25610
-      m_ExpandedIDs: 18fbffff90630000aa630000b2630000ec6300000a640000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 18fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -532,8 +532,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 269
-    y: 73
+    x: -31731
+    y: -31970
     width: 687
     height: 535
   m_SerializedDataModeController:
@@ -993,8 +993,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 958
-    y: 73
+    x: -31042
+    y: -31970
     width: 493
     height: 535
   m_SerializedDataModeController:
@@ -1172,8 +1172,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1453
-    y: 73
+    x: -30547
+    y: -31970
     width: 466
     height: 918
   m_SerializedDataModeController:
@@ -1194,8 +1194,8 @@ MonoBehaviour:
   currentStatusEntriesHasUpdate: 0
   repositoryProgressHasUpdate: 0
   appManagerProgressHasUpdate: 0
-  changeTab: 5
-  activeTab: 5
+  changeTab: 3
+  activeTab: 3
   initProjectView:
     hasCompletedInitialCheck: 1
     isUserDataPresent: 1
@@ -1377,46 +1377,8 @@ MonoBehaviour:
         keys: []
         values: []
       folders:
-        keys:
-        - UserSettings
-        - UserSettings\Layouts
-        values:
-        - path: UserSettings
-          label: UserSettings
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: UserSettings\Layouts
-          label: Layouts
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
+        keys: []
+        values: []
       checkedFileNodes:
         keys: []
         values: []
@@ -1445,78 +1407,6 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-      - path: UserSettings
-        label: UserSettings
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: UserSettings\Layouts
-        label: Layouts
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: UserSettings\Layouts\CurrentMaximizeLayout.dwlt
-        label: CurrentMaximizeLayout.dwlt
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: UserSettings\Layouts\CurrentMaximizeLayout.dwlt
-          fullPath: C:\Users\patri\BitClicker new\UserSettings\Layouts\CurrentMaximizeLayout.dwlt
-          projectPath: UserSettings\Layouts\CurrentMaximizeLayout.dwlt
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: UserSettings\Layouts\default-2022.dwlt
-        label: default-2022.dwlt
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: UserSettings\Layouts\default-2022.dwlt
-          fullPath: C:\Users\patri\BitClicker new\UserSettings\Layouts\default-2022.dwlt
-          projectPath: UserSettings\Layouts\default-2022.dwlt
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
       selectedNode:
         path: 
         label: 
@@ -1536,28 +1426,16 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-    gitStatusEntries:
-    - path: UserSettings\Layouts\CurrentMaximizeLayout.dwlt
-      fullPath: C:\Users\patri\BitClicker new\UserSettings\Layouts\CurrentMaximizeLayout.dwlt
-      projectPath: UserSettings\Layouts\CurrentMaximizeLayout.dwlt
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: UserSettings\Layouts\default-2022.dwlt
-      fullPath: C:\Users\patri\BitClicker new\UserSettings\Layouts\default-2022.dwlt
-      projectPath: UserSettings\Layouts\default-2022.dwlt
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    changedFilesText: 2 changed files
+    gitStatusEntries: []
+    changedFilesText: No changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2024-03-05T17:10:19.688+00:00
+      updatedTimeString: 2024-03-22T21:04:23.351+00:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2024-03-05T17:12:54.799+00:00
+      updatedTimeString: 2024-03-22T21:04:24.602+00:00
       cacheType: 6
     lastLocksChangedEvent:
-      updatedTimeString: 2024-03-05T17:12:55.302+00:00
+      updatedTimeString: 2024-03-22T21:04:23.292+00:00
       cacheType: 7
   historyView:
     currentLogHasUpdate: 0
@@ -3616,7 +3494,7 @@ MonoBehaviour:
       installSettingsHidden: 0
     hasRemote: 1
     lastCurrentRemoteChangedEvent:
-      updatedTimeString: 2024-03-05T20:12:09.372+00:00
+      updatedTimeString: 2024-03-22T18:18:38.371+00:00
       cacheType: 1
     newRepositoryRemoteUrl: https://github.com/PatrickLehane251/BitClicker
     repositoryRemoteName: origin
@@ -3629,7 +3507,7 @@ MonoBehaviour:
       newGitEmail: delif2p@gmail.com
       needsSaving: 0
       lastCheckUserChangedEvent:
-        updatedTimeString: 2024-03-05T17:15:32.955+00:00
+        updatedTimeString: 2024-03-22T18:18:39.288+00:00
         cacheType: 8
       configSettingsHidden: 0
     repositorySettingsHidden: 0
@@ -3693,7 +3571,7 @@ MonoBehaviour:
   currentRemoteUrl: https://github.com/PatrickLehane251/BitClicker
   statusAhead: 0
   statusBehind: 0
-  hasItemsToCommit: 1
+  hasItemsToCommit: 0
   isTrackingRemoteBranch: 1
   currentBranchContent:
     m_Text: master
@@ -3704,13 +3582,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2024-03-05T20:12:09.372+00:00
+    updatedTimeString: 2024-03-22T21:04:23.351+00:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2024-03-05T20:12:11.144+00:00
+    updatedTimeString: 2024-03-22T21:04:24.612+00:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2024-03-05T20:12:11.115+00:00
+    updatedTimeString: 2024-03-22T21:04:24.602+00:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
